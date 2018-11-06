@@ -1,7 +1,7 @@
 /* How to use the DHT-22 sensor with Arduino uno
    Temperature and humidity sensor
-   More info: http://www.ardumotive.com/how-to-use-dht-22-sensor-en.html
-   Dev: Michalis Vasilakis // Date: 1/7/2015 // www.ardumotive.com */
+   More info: 
+   Dev: */
 
 //Libraries
 #include <dht.h>
